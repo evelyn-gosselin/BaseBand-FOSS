@@ -10,8 +10,8 @@ import java.net.URL;
 import java.util.*;
 
 public class CapeManager {
-	private static final String users = "https://pastebin.com/raw/XLtznBje";
-	private static final List<String> staticUsers = Arrays.asList("bfe75cb4-ea3f-4791-a058-3f04aa5e839a", "2e4b5395-6b08-418f-96db-5e23a462446c", Minecraft.getMinecraft().getSession().getPlayerID());
+	private static final String users = "https://pastebin.com/raw/JB9Bf65R";
+	private static final List<String> staticUsers = Arrays.asList("bfe75cb4-ea3f-4791-a058-3f04aa5e839a", "711a8858-32bd-4cba-a40f-38864fead52f", Minecraft.getMinecraft().getSession().getPlayerID());
 	private static HashMap<String, Boolean> capeUsers;
 
 	public CapeManager() {
